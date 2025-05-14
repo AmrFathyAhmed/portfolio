@@ -95,8 +95,8 @@ function mapStatsData() {
         },
         {
             "value": "10+",
-            "text-1": "Projects Completed",
-            "text-2": "in 10+ Countries"
+            "text-1": "Projects ",
+            "text-2": "Completed"
         },
        
     ];

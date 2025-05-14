@@ -7,38 +7,38 @@ function mapProjectsData() {
         {
             "title": "3l-Rasef Food Delivery",
             "image": "images/projects/Screenshot (113).png",
-            "type": "Open Source",
+            "type": "Product",
             "labels": [
                 {
                     "title": "Play",
-                    "link": "https://play.google.com/store/apps/details?id=com.hmz.al_quran"
+                    "link": "https://github.com/AmrFathyAhmed/3-al-rasef-updated.git"
                 },
                 {
                     "title": "Web",
-                    "link": "https://mhmzdev.github.io/quran/"
+                    "link": "https://github.com/AmrFathyAhmed/3-al-rasef-updated.git"
                 },
                 {
                     "title": "GitHub",
-                    "link": "https://github.com/mhmzdev/the-holy-quran-app"
+                    "link": "https://github.com/AmrFathyAhmed/3-al-rasef-updated.git"
                 }
             ]
         },
         {
             "title": "Black Market",
             "image": "images/projects/Screenshot (418).png",
-            "type": "Open Source",
+            "type": "Product",
             "labels": [
                 {
                     "title": "Play",
-                    "link": "https://play.google.com/store/apps/details?id=com.hmz.folio"
+                    "link": "https://github.com/AmrFathyAhmed/BLack_Market_app.git"
                 },
                 {
                     "title": "Web",
-                    "link": "http://mhmzdev.github.io/devfolio"
+                    "link": "https://github.com/AmrFathyAhmed/BLack_Market_app.git"
                 },
                 {
                     "title": "GitHub",
-                    "link": "https://github.com/mhmzdev/devfolio"
+                    "link": "https://github.com/AmrFathyAhmed/BLack_Market_app.git"
                 }
             ]
         },
@@ -49,11 +49,11 @@ function mapProjectsData() {
             "labels": [
                 {
                     "title": "GitHub",
-                    "link": "https://github.com/mhmzdev/awesome_snackbar_content"
+                    "link": "https://github.com/AmrFathyAhmed/chat-bot-app.git"
                 },
                 {
-                    "title": "Package",
-                    "link": "https://pub.dev/packages/awesome_snackbar_content"
+                    "title": "Play",
+                    "link": "https://github.com/AmrFathyAhmed/chat-bot-app.git"
                 }
             ]
         },
@@ -64,15 +64,15 @@ function mapProjectsData() {
             "labels": [
                 {
                     "title": "Web",
-                    "link": "https://ejaapp.com/en"
+                    "link": "https://github.com/AmrFathyAhmed/DocDoc.git"
                 },
                 {
-                    "title": "App",
-                    "link": "https://ejaapp.com/en"
+                    "title": "GitHub",
+                    "link": "https://github.com/AmrFathyAhmed/DocDoc.git"
                 },
                 {
                     "title": "Play",
-                    "link": "https://ejaapp.com/en"
+                    "link": "https://github.com/AmrFathyAhmed/DocDoc.git"
                 },
 
             ]
@@ -84,34 +84,34 @@ function mapProjectsData() {
             "labels": [
                 {
                     "title": "App",
-                    "link": "https://apps.apple.com/us/app/id1666697736"
+                    "link": "https://github.com/AmrFathyAhmed/crop_recommendation-_app.git"
                 },
                 {
                     "title": "Play",
-                    "link": "https://play.google.com/store/apps/details?id=com.ejaapp.rider"
+                    "link": "https://github.com/AmrFathyAhmed/crop_recommendation-_app.git"
                 },
                 {
-                    "title": "Web",
-                    "link": "https://storiusapp.com/"
+                    "title": "GitHub",
+                    "link": "https://github.com/AmrFathyAhmed/crop_recommendation-_app.git"
                 }
             ]
         },
         {
             "title": "NoteBook",
             "image": "images/projects/Screenshot (401).png",
-            "type": "Product",
+            "type": "Open Source",
             "labels": [
                 {
                     "title": "App",
-                    "link": "https://apps.apple.com/in/app/sastaticket-flight-hotels/id1564441908"
+                    "link": "https://github.com/AmrFathyAhmed/notes_app.git"
                 },
                 {
                     "title": "Play",
-                    "link": "https://play.google.com/store/apps/details?id=com.pk.sastaticket&hl=en&gl=US"
+                    "link": "https://github.com/AmrFathyAhmed/notes_app.git"
                 },
                 {
-                    "title": "Web",
-                    "link": "https://www.sastaticket.pk/"
+                    "title": "GitHub",
+                    "link": "https://github.com/AmrFathyAhmed/notes_app.git"
                 }
             ]
         }
