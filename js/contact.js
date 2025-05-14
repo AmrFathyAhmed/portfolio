@@ -50,9 +50,7 @@ function mapContactDetails() {
     }
 }
 
-function onMeetClick() {
-    window.open("https://calendly.com/mhmzdev/meet", '_blank');
-}
+
 
 function currentDate() {
     const current = new Date();
