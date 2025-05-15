@@ -15,6 +15,16 @@ function mapTechData() {
             "type": "mobile-tech"
         },
         {
+            "name": "Android",
+            "icon": "images/tech/android-svgrepo-com.svg",
+            "type": "mobile-tech"
+        },
+        {
+            "name": "ios",
+            "icon": "images/tech/apple-svgrepo-com.svg",
+            "type": "mobile-tech"
+        },
+        {
             "name": "HTML 5",
             "icon": "images/tech/html.svg",
             "type": "web-tech"
@@ -24,31 +34,15 @@ function mapTechData() {
             "icon": "images/tech/css.svg",
             "type": "web-tech"
         },
-        {
-            "name": "Bootstrap",
-            "icon": "images/tech/bootstrap.svg",
-            "type": "web-tech"
-        },
+       
         {
             "name": "Javascript",
             "icon": "images/tech/js.svg",
             "type": "web-tech"
         },
-        {
-            "name": "Flask Restful",
-            "icon": "images/tech/flask.svg",
-            "type": "server-tech"
-        },
-        {
-            "name": "Node.js",
-            "icon": "images/tech/node.svg",
-            "type": "server-tech"
-        },
-        {
-            "name": "Express.js",
-            "icon": "images/tech/express.svg",
-            "type": "server-tech"
-        },
+        
+       
+       
         {
             "name": "REST APIs",
             "icon": "images/tech/api.svg",
@@ -59,19 +53,29 @@ function mapTechData() {
             "icon": "images/tech/dart_frog.svg",
             "type": "server-tech"
         },
+        
         {
             "name": "Firebase",
             "icon": "images/tech/firebase.svg",
             "type": "database-tech"
-        },
-        {
-            "name": "MongoDB",
-            "icon": "images/tech/mongo.svg",
+        }, {
+            "name": "Subabase",
+            "icon": "images/tech/icons8-supabase.svg",
             "type": "database-tech"
         },
         {
-            "name": "Postgres SQL",
+            "name": "Hive",
+            "icon": "images/tech/Aniket-Suvarna-Box-Regular-Bx-hive.svg",
+            "type": "database-tech"
+        },
+        {
+            "name": "SQL",
             "icon": "images/tech/sql.svg",
+            "type": "database-tech"
+        },
+        {
+            "name": "Sqflite",
+            "icon": "images/tech/icons8-sqlite.svg",
             "type": "database-tech"
         },
         {

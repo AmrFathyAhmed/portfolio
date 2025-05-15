@@ -6,7 +6,10 @@
     padding-bottom: 8%;
     padding-left: 8%;
 }
-
+.tech-icon {
+    width: 20px;
+    height: 20px;
+}
 .tech {
     padding: 5px;
     margin-bottom: 15px;
